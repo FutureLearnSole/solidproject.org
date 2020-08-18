@@ -1053,4 +1053,8 @@ Unfuck digital ! — Why we should reboot the digital revolution.](https://mediu
 
 2018-09-23 [The only way to save the Internet is to claim it back from Big Data](https://mastersofmedia.hum.uva.nl/blog/2018/09/23/solid-and-the-decentralisation-of-the-web-the-only-way-to-save-the-internet-is-to-claim-it-back-from-big-data/)
 
+### 2009
+
 2009-08-17 [W3C - Socially Aware Cloud Storage by Tim Berners-Lee](https://www.w3.org/DesignIssues/CloudStorage.html) 
+
+2009-08-16 [[W3C - Read-Write Linked Data by Tim Berners-Lee](https://www.w3.org/DesignIssues/ReadWriteLinkedData.html)
