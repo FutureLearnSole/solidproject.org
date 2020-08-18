@@ -1053,8 +1053,6 @@ Unfuck digital ! — Why we should reboot the digital revolution.](https://mediu
 
 2018-09-29 [Exclusive: Tim Berners-Lee tells us his radical new plan to upend the World Wide Web](https://web.archive.org/web/20181001103951/https://www.fastcompany.com/90243936/exclusive-tim-berners-lee-tells-us-his-radical-new-plan-to-upend-the-world-wide-web)
 
-2018-09-28 [Exclusive: Tim Berners-Lee tells us his radical new plan to upend the World Wide Web](https://www.fastcompany.com/90243936/exclusive-tim-berners-lee-tells-us-his-radical-new-plan-to-upend-the-world-wide-web)
-
 2018-09-28 [One Small Step for the Web…](https://inrupt.com/blog/one-small-step-for-the-web)
 
 2018-09-23 [The only way to save the Internet is to claim it back from Big Data](https://mastersofmedia.hum.uva.nl/blog/2018/09/23/solid-and-the-decentralisation-of-the-web-the-only-way-to-save-the-internet-is-to-claim-it-back-from-big-data/)
