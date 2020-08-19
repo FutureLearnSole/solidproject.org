@@ -15,7 +15,8 @@ Are you looking to get a speaker or interview about Solid? Contact us on [press@
     date="2020-08-06"
     title="Solid World August"
     website="https://www.eventbrite.com/e/solid-world-tickets-111960609196"
-    speaker="TBC"
+    speaker="Tim Berners-Lee, Ruben Verborgh, Oz Olivo"
+    video="https://vimeo.com/446435972"
 %}
 
 {%
@@ -42,6 +43,16 @@ Are you looking to get a speaker or interview about Solid? Contact us on [press@
     website="https://www.eventbrite.com/e/solid-world-june-tickets-104631158612"
     speaker="Sharon Stratsianis, Associate Professor Jose Emilio Labra Gayo, Ángel Maldonado"
     video="https://vimeo.com/425919959"
+%}
+
+{%
+  include talk.html
+    date="2020-05-21"
+    title="Data privacy, trust, and smart city services"
+    website="https://opencommons.org/solid/"
+    speaker="Jeff Zucker"
+    video="https://www.yew.tube.com/watch?v=oaVE9OcPrm8"
+    slide="https://opencommons.org/wp-content/uploads/2020/05/zucker.pdf"    
 %}
 
 {%
@@ -453,6 +464,15 @@ Are you looking to get a speaker or interview about Solid? Contact us on [press@
 
 {%
   include talk.html
+    date="2018-10-04"
+    title="SOLID - The New Internet by Prof. Tim Berner Lee"
+    website="https://www.techsoul.in"
+    speaker="AjayKumar"
+    video="https://yewtu.be/watch?v=ia2_QNhYWck"
+%}
+
+{%
+  include talk.html
     date="2018-09-19"
     title="Linked Data Scholarship course at KU Leuven"
     website="https://onderwijsaanbod.kuleuven.be/syllabi/e/F0XO5AE.htm#activetab=doelstellingen_idp935024"
@@ -521,6 +541,7 @@ Are you looking to get a speaker or interview about Solid? Contact us on [press@
     title="ACM Turing Lecture - Utopia to Dystopia in 29 short years"
     website="https://www.w3.org/2018/Talks/0529-timbl-turing/timbl-turing-slides-utopia-to-dystopia.html"
     speaker="Tim Berners-Lee"
+    video="https://invidious.13ad.de/watch?v=BaMa4u4Fio4"    
 %}
 
 {%
@@ -583,7 +604,8 @@ Are you looking to get a speaker or interview about Solid? Contact us on [press@
 {%
   include talk.html
     date="2017-12-12"
-    title="CNI Fall 2017 Meeting - Herbert van der Sompel"
+    title="CNI Fall 2017 Meeting - Closing Plenary - Scholarly Communication: Deconstruct & Decentralize?"
+    website="https://www.cni.org/events/membership-meetings/past-meetings/fall-2017/plenary-sessions-f17-2#closing"    
     speaker="Herbert van der Sompel"
     slides="https://www.slideshare.net/hvdsomp/paul-evan-peters-lecture/"
     video="https://vimeo.com/248056214"    
@@ -647,8 +669,6 @@ Are you looking to get a speaker or interview about Solid? Contact us on [press@
 
 2020-06-12 [CHANGEMAKERS: Davi Ottenheimer on Data Ethics and How to Save the Web](https://alltechishuman.org/blog/changemakers-davi-ottenheimer-on-data-ethics-and-how-to-save-the-internet) 
 
-2020-06-02 [Data privacy, trust, and smart city services](https://opencommons.org/solid/)
-
 2020-06-02 [Low-code development platform Generative Objects : the journey to open source](https://modeling-languages.com/low-code-open-source-platform-generative-objects/)
 
 2020-05-20 [Open University Solid initiative](https://blockchain.open.ac.uk/#covid-19)
@@ -711,7 +731,7 @@ Are you looking to get a speaker or interview about Solid? Contact us on [press@
 
 2020-01-23 [Developer offers a glimpse of what a ‘Solid’ decentralized social network presence might look like](https://www.coywolf.news/social/solid-profile-design/)
 
-2020-01-22 [The Inventor of the World Wide Web wrote an Inspiring Letter to the Women’s Technology Empowerment Centre in Lagos | Read it Here](https://www.bellanaija.com/2020/01/tim-berners-lees/)
+2020-01-22 [The Inventor of the World Wide Web wrote an Inspiring Letter to the Women’s Technology Empowerment Centre in Lagos \| Read it Here](https://www.bellanaija.com/2020/01/tim-berners-lees/)
 
 2020-01-20 [Freeing the Web From Big Tech](https://www.thenewamerican.com/print-magazine/item/34519-freeing-the-web-from-big-tech)
 
@@ -723,6 +743,10 @@ Are you looking to get a speaker or interview about Solid? Contact us on [press@
 Unfuck digital ! — Why we should reboot the digital revolution.](https://medium.com/@AlexGlasneck/unfuck-digital-why-we-should-reboot-the-digital-revolution-4652237ab05f)
 
 ### 2019
+
+2019-12-06 [The personal data web, social linked data and data vaults explained](https://medium.com/digita-ai/the-personal-data-web-social-linked-data-and-data-vaults-explained-48d40f520034)
+
+2019-11-29 [‘Solid’ Decentralized social apps, where users control their data and privacy, could replace Facebook](https://www.coywolf.news/social/solid-decentralized-network/)
 
 2019-11-20 [LSE Business Review: How to turn trust into a competitive advantage](https://blogs.lse.ac.uk/businessreview/2019/11/20/how-to-turn-trust-into-a-competitive-advantage/)
 
@@ -766,7 +790,7 @@ Unfuck digital ! — Why we should reboot the digital revolution.](https://mediu
 
 2019-07-31 [The Verge: Brain-computer interfaces are developing faster than the policy debate around them](https://www.theverge.com/interface/2019/7/31/20747916/facebook-brain-computer-interface-policy-neuralink)
 
-2019-07-31 [Joy Online: Apple joins Google, Facebook, and Twitter in data-sharing project](https://web.archive.org/web/20191016140751/https://myjoyonline.com/technology/2019/july-31st/apple-joins-google-facebook-and-twitter-in-data-sharing-project.php)
+2019-07-30 [Apple joins Google, Facebook, and Twitter in data-sharing project](https://www.theverge.com/2019/7/30/20746868/apple-data-transfer-project-google-microsoft-twitter)
 
 2019-07-31 [Medium: The future of the decentralized web](https://medium.com/berkman-klein-center/the-future-of-the-decentralized-web-707915f12360)
 
@@ -858,19 +882,25 @@ Unfuck digital ! — Why we should reboot the digital revolution.](https://mediu
 
 2019-05-02 [ICT Works: Democratizing Access to Data is the Next Frontier in International Development](https://www.ictworks.org/democratizing-access-data-frontier/#.Xdwg9S2ZOTe)
 
-2019-04-01 [BTC Wires: What Does Article 13 Mean For Crypto Industry?](https://www.btcwires.com/round-the-block/what-does-article-13-mean-for-crypto-industry/)
+2019-04-24 [Forbes: The Best Way to Avoid Data Leaks and Privacy Scandals: Don't Own Consumer Data](https://www.forbes.com/sites/joetoscano1/2019/04/24/the-best-way-to-avoid-data-leaks-and-privacy-scandals-dont-own-consumer-data/#c6178f525643)
 
-2019-04-02 [CNET: Web inventor Tim Berners-Lee wants to give you your data back](https://www.cnet.com/news/web-inventor-tim-berners-lee-wants-to-give-you-your-data-back/)
+2019-04-23 [Future Scot: The small company from Troon which has got the attention of Sir Tim Berners-Lee and Hollywood. And Scotland? Not so much.](https://futurescot.com/the-small-company-from-troon-which-has-got-the-attention-of-sir-tim-berners-lee-and-hollywood-and-scotland-not-so-much/)
 
-2019-04-03 [Information Age: Tim Berners-Lee on the World Wide Web: "it seemed like a good idea at the time"](https://www.information-age.com/tim-berners-lee-world-wide-web-123481411/)
+2019-04-19 [Uphindia: 30 yrs later, Berners-Lee sees mission to fix internet](https://uphindia.com/2019/04/19/30-yrs-later-berners-lee-sees-mission-to-fix-internet/)
 
-2019-04-04 [Capita Customer Management: 8 ways data will change and impact business in the next three years](https://www.capitacustomermanagement.co.uk/news-and-blog/8-ways-data-will-change-impact-business-next-three-years)
+2019-04-19 [GeekWire: GeekWire Calendar Picks: Open source project led by Sir Tim Berners-Lee; mastering startup pitches; and more](https://www.geekwire.com/2019/geekwire-calendar-picks-open-source-project-led-sir-tim-berners-lee-mastering-startup-pitches/)
 
-2019-04-05 [Dev.to: How a chess app interacts with Solid](https://dev.to/phadventure/how-a-chess-app-interacts-with-solid-409a)
+2019-04-12 [Open Democracy: Digital Citizenship in the 21st Century](https://www.opendemocracy.net/en/democraciaabierta/digital-citizenship-21st-century/)
 
-2019-04-05 [ZDNet: Solid, l'idée de Tim Berners-Lee pour reprendre le contrôle des données](https://www.zdnet.fr/actualites/solid-l-idee-de-tim-berners-lee-pour-reprendre-le-controle-des-donnees-39882941.htm)
+2019-04-12 [Amadeus: Sir Tim Berners-Lee’s Solid approach to rescuing the web from algorithms](https://amadeus.com/en/insights/blog/sir-tim-berners-lee-s-solid-approach-to-rescuing-the-web-from-al)
+
+2020-04-09 [Winning a Mozilla Seed award](https://darcy.is/winning-a-mozilla-seed-award/)
+
+2019-04-07 [Venture Beat: A Pod world: How you’d trade your data for services over a decentralized internet](https://venturebeat.com/2019/04/07/a-pod-world-how-youd-trade-your-data-for-services-over-a-decentralized-internet/)
 
 2019-04-05 [Medium: Why Internet failed and how we can fix it](https://medium.com/blockchangers/why-internet-failed-and-how-we-can-fix-it-c786254ca71f)
+
+2019-04-05 [ZDNet: Solid, l'idée de Tim Berners-Lee pour reprendre le contrôle des données](https://www.zdnet.fr/actualites/solid-l-idee-de-tim-berners-lee-pour-reprendre-le-controle-des-donnees-39882941.htm)
 
 2019-04-05 [Bitcoin News: What Article 13 Means for the Cryptocurrency Industry](https://web.archive.org/web/20191219065103/https://news.bitcoin.com/what-article-13-means-for-the-cryptocurrency-industry/)
 
@@ -878,19 +908,15 @@ Unfuck digital ! — Why we should reboot the digital revolution.](https://mediu
 
 2019-04-05 [LifeHacker AU: Tim Berners-Lee Says We've Messed Up The Internet But It Can Be Fixed](https://www.lifehacker.com.au/2019/04/berners-lee-says-weve-messed-up-the-internet-but-it-can-be-fixed/)
 
-2019-04-07 [Venture Beat: A Pod world: How you’d trade your data for services over a decentralized internet](https://venturebeat.com/2019/04/07/a-pod-world-how-youd-trade-your-data-for-services-over-a-decentralized-internet/)
+2019-04-05 [Dev.to: How a chess app interacts with Solid](https://dev.to/phadventure/how-a-chess-app-interacts-with-solid-409a)
 
-2019-04-12 [Open Democracy: Digital Citizenship in the 21st Century](https://www.opendemocracy.net/en/democraciaabierta/digital-citizenship-21st-century/)
+2019-04-04 [Capita Customer Management: 8 ways data will change and impact business in the next three years](https://www.capitacustomermanagement.co.uk/news-and-blog/8-ways-data-will-change-impact-business-next-three-years)
 
-2019-04-12 [Amadeus: Sir Tim Berners-Lee’s Solid approach to rescuing the web from algorithms](https://amadeus.com/en/insights/blog/sir-tim-berners-lee-s-solid-approach-to-rescuing-the-web-from-al)
+2019-04-03 [Information Age: Tim Berners-Lee on the World Wide Web: "it seemed like a good idea at the time"](https://www.information-age.com/tim-berners-lee-world-wide-web-123481411/)
 
-2019-04-19 [GeekWire: GeekWire Calendar Picks: Open source project led by Sir Tim Berners-Lee; mastering startup pitches; and more](https://www.geekwire.com/2019/geekwire-calendar-picks-open-source-project-led-sir-tim-berners-lee-mastering-startup-pitches/)
+2019-04-02 [CNET: Web inventor Tim Berners-Lee wants to give you your data back](https://www.cnet.com/news/web-inventor-tim-berners-lee-wants-to-give-you-your-data-back/)
 
-2019-04-19 [Uphindia: 30 yrs later, Berners-Lee sees mission to fix internet](https://uphindia.com/2019/04/19/30-yrs-later-berners-lee-sees-mission-to-fix-internet/)
-
-2019-04-23 [Future Scot: The small company from Troon which has got the attention of Sir Tim Berners-Lee and Hollywood. And Scotland? Not so much.](https://futurescot.com/the-small-company-from-troon-which-has-got-the-attention-of-sir-tim-berners-lee-and-hollywood-and-scotland-not-so-much/)
-
-2019-04-24 [Forbes: The Best Way to Avoid Data Leaks and Privacy Scandals: Don't Own Consumer Data](https://www.forbes.com/sites/joetoscano1/2019/04/24/the-best-way-to-avoid-data-leaks-and-privacy-scandals-dont-own-consumer-data/#c6178f525643)
+2019-04-01 [BTC Wires: What Does Article 13 Mean For Crypto Industry?](https://www.btcwires.com/round-the-block/what-does-article-13-mean-for-crypto-industry/)
 
 2019-03-27 [Phocus Wire: Tim Berners-Lee laments state of the web but offers hope for travel brands](https://www.phocuswire.com/Tim-Berners-Lee-redecentralization)
 
@@ -1024,6 +1050,42 @@ Unfuck digital ! — Why we should reboot the digital revolution.](https://mediu
 
 2019-01-03 [AEI Ideas: The future of privacy policy: A Q&A with author David Brin](https://www.aei.org/technology-and-innovation/the-future-of-privacy-policy-a-qa-with-author-david-brin/)
 
+### 2018
+
 2018-12-31 [NRC - Herstelwerk aan het kapotte internet](https://www.nrc.nl/nieuws/2018/12/31/herstelwerk-aan-het-kapotte-internet-a3127480)
 
+2018-10-29 [An introduction to SOLID, Tim Berners-Lee’s new, re-decentralized Web](https://www.freecodecamp.org/news/an-introduction-to-solid-tim-berners-lees-new-re-decentralized-web-25d6b78c523b/)
+
+2018-10-16 [Tim Berners-Lee Introduces "Solid" Decentralized Identity Platform](https://www.infoq.com/news/2018/10/solid-identity-platform/)
+
+2018-10-06 [Tim Berners-Lee unveils next step for Solid, a decentralized Web platform with privacy built-in as standard](https://www.privateinternetaccess.com/blog/tim-berners-lee-unveils-solid-a-decentralized-web-platform-with-privacy-built-in-as-standard/)
+
+2018-10-05 [How solid is Tim’s plan to redecentralize the web?](https://redecentralize.org/blog/2018/10/05/how-solid.html)
+
+2018-09-29 [Exclusive: Tim Berners-Lee tells us his radical new plan to upend the World Wide Web](https://web.archive.org/web/20181001103951/https://www.fastcompany.com/90243936/exclusive-tim-berners-lee-tells-us-his-radical-new-plan-to-upend-the-world-wide-web)
+
+2018-09-28 [One Small Step for the Web…](https://inrupt.com/blog/one-small-step-for-the-web)
+
+2018-09-23 [The only way to save the Internet is to claim it back from Big Data](https://mastersofmedia.hum.uva.nl/blog/2018/09/23/solid-and-the-decentralisation-of-the-web-the-only-way-to-save-the-internet-is-to-claim-it-back-from-big-data/)
+
+2018-08-27 [Decentralising the web: OmiseGO on the importance of user experience for new platforms](https://web.archive.org/web/20180730050637/https://www.computing.co.uk/ctg/news/3036546/decentralising-the-web-omisego-on-the-importance-of-user-experience)
+
+2018-07-03 [About Solid](https://web.archive.org/web/20180703172221/https://github.com/solid/solid)
+
+2018-07-02 [Tim Berners-Lee, Inventor of the Web, Plots a Radical Overhaul of His Creation](https://web.archive.org/web/20180630083946/https://www.wired.com/2017/04/tim-berners-lee-inventor-web-plots-radical-overhaul-creation/)
+
+2018-07-01 [“I was devastated”: Tim Berners-Lee, the man who created the World Wide Web, has some regrets](https://www.vanityfair.com/news/2018/07/the-man-who-created-the-world-wide-web-has-some-regrets)
+
+### 2016
+
+2016-08-10 [How the father of the World Wide Web plans to reclaim it from Facebook and Google](http://www.digitaltrends.com/web/ways-to-decentralize-the-web/)
+
+### 2015
+
+2015-11-02 [Web inventor Tim Berners-Lee's next project: a platform that gives users control of their data](https://web.archive.org/web/20181006054539/https://www.csail.mit.edu/news/web-inventor-tim-berners-lees-next-project-platform-gives-users-control-their-data)
+
+### 2009
+
 2009-08-17 [W3C - Socially Aware Cloud Storage by Tim Berners-Lee](https://www.w3.org/DesignIssues/CloudStorage.html) 
+
+2009-08-16 [W3C - Read-Write Linked Data by Tim Berners-Lee](https://www.w3.org/DesignIssues/ReadWriteLinkedData.html)
