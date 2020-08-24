@@ -25,7 +25,6 @@ App | by
 
 <!-------[Mark Book](https://markbook.org) is for creating bookmarks. [Source code](https://github.com/melvincarvalho/solid-bookmark) [MIT License Copyright (c) 2018](https://github.com/melvincarvalho/solid-bookmark/blob/gh-pages/LICENSE) [Melvin Carvalho](https://github.com/melvincarvalho) | ---------->
 
-
 ## Social
 * [LongChat](https://solid-chat.5apps.com/), the default chat pane of Solid OS. [source code](https://github.com/solid/chat-pane) under [MIT License Copyright (C) 2020](https://github.com/solid/chat-pane/blob/master/LICENSE.md)
 * [Darcy](https://ibex.darcy.is/feed)
