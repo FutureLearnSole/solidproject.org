@@ -8,7 +8,7 @@ These Solid-compatible apps will store your data on [your own Pod]({{site.baseUr
 
 # Solid Apps
 
-## Show Case
+## Show Case 
 * [Media Kraken](https://noeldemartin.github.io/media-kraken/) let's you track your media and never miss a beat. 2020. [Noel De Martin](https://noeldemartin.com). [documentation](https://github.com/NoelDeMartin/media-kraken/tree/main/docs) and [source code](https://github.com/NoelDeMartin/media-kraken) which is under GNU General Public License v3.0. Give feedback about the app via [this thread](https://forum.solidproject.org/t/media-kraken-keep-track-of-your-media-in-your-pod/3333).
 * [Solidarity](https://scenaristeur.github.io/solidarity/). [source code](https://github.com/scenaristeur/solidarity) is under [MIT License Copyright (c) 2019](https://github.com/scenaristeur/shighl/blob/master/LICENSE)[David Faveris](http://smag0.blogspot.com/2013/12/smag0-le-projet.html)
 * [Notepod](https://notepod.vincenttunru.com/) is a simple note-taking app that stores notes in your Solid Pod. It was created as a demonstration of how to create Solid apps — inspect [its commit messages](https://gitlab.com/vincenttunru/notepod/commits/master) for more detailed guidance on [reading data](https://gitlab.com/vincenttunru/notepod/commit/5c534abdd2d6ed18be8ddc256427fb7bc0baae71), [authenticating](https://gitlab.com/vincenttunru/notepod/commit/f42f8ae6e55f1a1996050d5061252b5ac615b5aa), and more.
