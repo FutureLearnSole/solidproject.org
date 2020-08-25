@@ -94,6 +94,7 @@ Are you looking to get a speaker or interview about Solid? Contact us on [press@
     date="2020-02-07"
     title="Solid CERN"
     website="https://indico.cern.ch/e/CERN-Solid-brainstorming"
+    slides="https://indico.cern.ch/event/866085/contributions/3724639/attachments/1983527/3305185/20200107_CERN.pdf"    
     speaker="Maria Dimou, Sarven Capadisli, and Mitzi László"
 %}
 
