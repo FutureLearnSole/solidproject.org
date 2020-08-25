@@ -100,8 +100,8 @@ Are you looking to get a speaker or interview about Solid? Contact us on [press@
 {%
   include talk.html
     date="2020-01-27"
-    title="Workshop on Cloud Services for File Synchronisation and Sharing"
-    website="https://cs3.deic.dk"
+    title="Keynote:May we please store your personal data"
+    website="https://indico.cern.ch/event/854707/program"
     speaker="Michiel de Jong"
 %}
 
