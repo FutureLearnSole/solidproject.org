@@ -101,7 +101,7 @@ Are you looking to get a speaker or interview about Solid? Contact us on [press@
 {%
   include talk.html
     date="2020-01-27"
-    title="Keynote:May we please store your personal data"
+    title="Keynote:May we please store your personal data?"
     website="https://indico.cern.ch/event/854707/program"
     speaker="Michiel de Jong"
 %}
@@ -118,8 +118,8 @@ Are you looking to get a speaker or interview about Solid? Contact us on [press@
 {%
   include talk.html
     date="2020-01-10"
-    title="P2P"
-    website="https://p2p.paris/fr/event/festival-0/"
+    title="Atelier prospective sur le standard Solid - Bâtir le web de demain"
+    website="https://p2p.paris/fr/talks/workshop-future-solid-specifications/"
     speaker="Alice Poggioli"
 %}
 
