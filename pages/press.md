@@ -51,7 +51,7 @@ Are you looking to get a speaker or interview about Solid? Contact us on [press@
     title="Data privacy, trust, and smart city services"
     website="https://opencommons.org/solid/"
     speaker="Jeff Zucker"
-    video="https://www.yew.tube.com/watch?v=oaVE9OcPrm8"
+    video="https://yewtu.be/watch?v=oaVE9OcPrm8"
     slide="https://opencommons.org/wp-content/uploads/2020/05/zucker.pdf"    
 %}
 
