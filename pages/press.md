@@ -85,8 +85,8 @@ Are you looking to get a speaker or interview about Solid? Contact us on [press@
   include talk.html
     date="2020-02-19"
     title="A introduction to Solid & Solid Search"
-    website="https://ingenieriainformatica.uniovi.es/actualidad/eventos/-/asset_publisher/uS6D/content/conferencia-solid-search:-introduccion-a-solid-y-como-cambiar-el-paradigma-de-los-buscadores-de-co?redirect=%2F"
-    speaker="[Alejandro Juan Garcia](https://www.linkedin.com/in/alejandro-juan-garc%C3%ADa-a6087684/)"
+    website="https://ingenieriainformatica.uniovi.es/actualidad/eventos/-/asset_publisher/uS6D/content/conferencia-solid-search:-introduccion-a-solid-y-paradigmas-de-los-buscadores?redirect=%2Factualidad%2Feventos"
+    speaker="Alejandro Juan Garcia"
 %}
 
 {%
