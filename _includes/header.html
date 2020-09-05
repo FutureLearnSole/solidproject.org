@@ -11,8 +11,21 @@
         Solid
       </a>
     </div>
-  
-    <div class="navbar-menu is-hidden-mobile">
+
+    <div class="navbar-menu">
+      	  <div class="navbar-start is-hidden-tablet">
+	    <div class="navbar-item has-dropdown is-hoverable">
+		 <a class="navbar-link is-size-4">is great for...</a>
+		 <div class="navbar-dropdown has-text-primary">
+        {% for item in site.data.navigation %}
+          <a
+            class="navbar-item is-size-6 has-text-primary"
+            href="{{ item.link }}"
+          >{{ item.name }}</a>
+          {% endfor %}
+	  </div>
+	 </div>
+      </div>
       <div class="navbar-end is-hidden-mobile">
         {% for item in site.data.navigation %}
           <a
