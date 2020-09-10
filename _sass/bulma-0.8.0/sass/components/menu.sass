@@ -46,6 +46,27 @@ $menu-label-spacing: 1em !default
       margin: $menu-nested-list-margin
       padding-left: $menu-nested-list-padding-left
 
+
+.menu-label-1
+  color: $menu-label-color
+  font-size: $menu-label-font-size
+  letter-spacing: $menu-label-letter-spacing
+  text-transform: uppercase
+  &:not(:first-child)
+    margin-top: $menu-label-spacing
+  &:not(:last-child)
+    margin-bottom: $menu-label-spacing
+
+    .menu-label-3
+      color: $menu-label-color
+      font-size: $menu-label-font-size
+      letter-spacing: $menu-label-letter-spacing
+      text-transform: uppercase
+      &:not(:first-child)
+        margin-top: $menu-label-spacing
+      &:not(:last-child)
+        margin-bottom: $menu-label-spacing
+
 .menu-label
   color: $menu-label-color
   font-size: $menu-label-font-size
