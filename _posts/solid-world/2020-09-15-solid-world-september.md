@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: base
 title: Solid World September
 permalink: /solid-world-september
 tags: [monthly, embed]
