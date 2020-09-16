@@ -1,7 +1,9 @@
 ---
-layout: base
+layout: solid-world
 title: Solid World September
 permalink: /solid-world-september
+date: 2020-09-03 10:00:00 +08
+from: 10:00 PM – 11:30 PM +08
 tags: [monthly, embed]
 ---
 

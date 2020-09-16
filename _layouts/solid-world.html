@@ -1,0 +1,18 @@
+---
+layout: base
+---
+<div class="container">
+  <div class="columns">
+    <div class="column is-two-thirds">
+      <article class="section content">
+        {{ content }}
+      </article>
+    </div>
+    <aside class="column is-one-third is-hidden-mobile section">
+      <div class="menu is-medium">
+        {% include event-time.html %}
+      </div>
+    </aside>
+  </div>
+</div>
+

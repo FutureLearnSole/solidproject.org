@@ -1,0 +1,10 @@
+<div>
+	<h3>Date and Time</h3>
+		<div class="container content">
+			<time>
+				<p>{% if page.date %}{% include {{ page.date }} %}{% endif %}</p>
+				<p>{% if page.from %}{% include {{ page.from }} %}{% endif %}</p>
+				<p><!---<a>Add to Calendar</a>---></p>
+			</time>
+		</div>
+</div>
