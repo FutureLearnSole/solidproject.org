@@ -8,8 +8,8 @@ Here are a few things to keep in mind when joining:
 1. If possible please do share your video so other attendees can see you and put a face to a gitter handle
 2. If you are presenting or asking a question please introduce yourself by telling us your name, affiliation, and any Solid work you are involved with.
 
-   CEST   |       Point       | Description |
-:--------:|-------------------|-------------|
+   CEST   |       Point       | Description 
+:--------:|-------------------|-------------
 1545 CEST | **Channel Opens** | The channel will open fifteen minutes before the welcome to give you an opportunity to set up.
 1600 CEST | **Welcome**       |
 1605 CEST | **Solid Roadmap Update** by <a href="https://github.com/timbl" target="_blank">Tim Berners-Lee</a> with thoughts from <a href="https://github.com/RubenVerborgh" target="_blank">Ruben Verborgh</a> and <a href="https://github.com/oolivo" target="_blank">Oz Olivo</a> 
