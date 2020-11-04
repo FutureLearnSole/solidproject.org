@@ -363,6 +363,15 @@ Are you looking to get a speaker or interview about Solid? Contact us on [press@
 
 {%
   include talk.html
+    date="2019-06-21"
+    title="MIT SOLID Project POD Form Integration"
+    website="https://www.formrouter.com/solid-project-pod-pdf-form-integration/online_forms_solid_pod.htm"
+    speaker="FormRouter"
+    video="https://www.formrouter.com/graphics/SOLID.mp4"
+%}
+
+{%
+  include talk.html
     date="2019-06-19"
     title="Linked Data in Architecture and Construction Week"
     website="http://linkedbuildingdata.net/ldac2019/"
