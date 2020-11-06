@@ -765,6 +765,10 @@ Are you looking to get a speaker or interview about Solid? Contact us on [press@
 
 ### 2020
 
+2020-07-28 [Digital Identity as an Investment](https://medium.com/digital-diplomacy/digital-identity-as-an-investment-d6c2ef21431d)
+
+2020-07-15 [TIME - We Need to Change How We Share Our Personal Data Online in the Age of COVID-19](https://time.com/5867314/we-need-to-change-how-we-share-our-personal-data-online-in-the-age-of-covid-19/)
+
 2020-06-12 [CHANGEMAKERS: Davi Ottenheimer on Data Ethics and How to Save the Web](https://alltechishuman.org/blog/changemakers-davi-ottenheimer-on-data-ethics-and-how-to-save-the-internet) 
 
 2020-06-02 [Solid: Social Linked Data](https://www.csail.mit.edu/research/solid-social-linked-data)
