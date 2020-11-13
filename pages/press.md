@@ -783,6 +783,8 @@ Are you looking to get a speaker or interview about Solid? Contact us on [press@
 
 2020-04-29 [New App for COVID-19 Combines Blockchain With Web Inventor's Privacy Tech](https://cointelegraph.com/news/new-app-for-covid-19-combines-blockchain-with-web-inventors-privacy-tech)
 
+2020-04-21 [Tech-professoren og kampen for nettets sj�l](https://www.prosa.dk/artikel/tech-professoren-og-kampen-for-nettets-sjael/)   <small>dk</small>
+
 2020-04-15 [COVID-19 Antibody Test Certification: There's an app for that](https://arxiv.org/abs/2004.07376)
 
 2020-04-14 [Scale, distribution, and occupying Mars: COVID-19 is a catalyst](https://www.zdnet.com/article/scale-distribution-and-occupying-mars-covid-19-is-a-catalyst/)
@@ -833,7 +835,7 @@ Are you looking to get a speaker or interview about Solid? Contact us on [press@
 
 2020-02-05 [This year privacy-first tech will (slowly) start going mainstream](https://www.wired.co.uk/article/privacy-first-technology)
 
-2020-02-05 [I hear you but Iâ€™m not listening!](https://www.acorel.nl/2018/10/i-hear-you-but-im-not-listening/)
+2020-02-05 [I hear you but Iâ€™m not listening!](https://www.acorel.nl/2018/10/i-hear-you-but-im-not-listening/)   <small>nl</small>
 
 2020-01-23 [Developer offers a glimpse of what a â€˜Solidâ€™ decentralized social network presence might look like](https://www.coywolf.news/social/solid-profile-design/)
 
@@ -986,7 +988,7 @@ Unfuck digital ! â€” Why we should reboot the digital revolution.](https://
 
 2019-05-11 [Financial Mirror: Inventor of the internet looking to build safer new web](http://www.financialmirror.com/news-details.php?nid=36942)
 
-2019-05-11 [De Tijd](https://www.tijd.be/dossiers/nieuwe-inzichten/we-moeten-weer-baas-worden-over-onze-data/10125717.html)
+2019-05-11 [De Tijd](https://www.tijd.be/dossiers/nieuwe-inzichten/we-moeten-weer-baas-worden-over-onze-data/10125717.html)   <small>be</small>
 
 2019-05-04 [Seattle Star: Thinking About Regulating the Online Space? Focus on Decentralizing Power](http://www.seattlestar.net/2019/05/thinking-about-regulating-the-online-space-focus-on-decentralizing-power/)
 
@@ -1010,7 +1012,7 @@ Unfuck digital ! â€” Why we should reboot the digital revolution.](https://
 
 2019-04-05 [Medium: Why Internet failed and how we can fix it](https://medium.com/blockchangers/why-internet-failed-and-how-we-can-fix-it-c786254ca71f)
 
-2019-04-05 [ZDNet: Solid, l'idÃ©e de Tim Berners-Lee pour reprendre le contrÃ´le des donnÃ©es](https://www.zdnet.fr/actualites/solid-l-idee-de-tim-berners-lee-pour-reprendre-le-controle-des-donnees-39882941.htm)
+2019-04-05 [ZDNet: Solid, l'idÃ©e de Tim Berners-Lee pour reprendre le contrÃ´le des donnÃ©es](https://www.zdnet.fr/actualites/solid-l-idee-de-tim-berners-lee-pour-reprendre-le-controle-des-donnees-39882941.htm)   <small>fr</small>
 
 2019-04-05 [Bitcoin News: What Article 13 Means for the Cryptocurrency Industry](https://web.archive.org/web/20191219065103/https://news.bitcoin.com/what-article-13-means-for-the-cryptocurrency-industry/)
 
@@ -1090,11 +1092,11 @@ Unfuck digital ! â€” Why we should reboot the digital revolution.](https://
 
 2019-03-05 [Daily Mail: 30 years later, Berners-Lee sees mission to fix internet's ills](https://www.dailymail.co.uk/wires/afp/article-6774129/30-years-later-Berners-Lee-sees-mission-fix-internets-ills.html)
 
-2019-03-05 [France 24: 30 years later, Berners-Lee sees mission to fix internet's ills](https://www.france24.com/en/20190305-30-years-later-berners-lee-sees-mission-fix-internets-ills)
+2019-03-05 [France 24: 30 years later, Berners-Lee sees mission to fix internet's ills](https://www.france24.com/en/20190305-30-years-later-berners-lee-sees-mission-fix-internets-ills)   <small>fr</small>
 
 2019-03-05 [Phys.org: 30 years later, Berners-Lee sees mission to fix internet's ills](https://phys.org/news/2019-03-years-berners-lee-mission-internet-ills.html)
 
-2019-03-05 [L'Echo: 30 years later, Berners-Lee sees mission to fix internet's ills](https://www.lecho.be/culture/general/30-ans-du-web-quand-la-toile-se-referme-sur-son-concepteur/10103551.html)
+2019-03-05 [L'Echo: 30 years later, Berners-Lee sees mission to fix internet's ills](https://www.lecho.be/culture/general/30-ans-du-web-quand-la-toile-se-referme-sur-son-concepteur/10103551.html)   <small>be</small>
 
 2019-03-05 [Inquirer: 30 years later, Berners-Lee sees mission to fix internet's ills](https://usa.inquirer.net/23492/worldwide-web-inventor-seeks-to-fix-online-problems?utm_expid=.XqNwTug2W6nwDVUSgFJXed.1)
 
@@ -1158,11 +1160,11 @@ Unfuck digital ! â€” Why we should reboot the digital revolution.](https://
 
 ### 2018
 
-2018-12-31 [NRC - Herstelwerk aan het kapotte internet](https://www.nrc.nl/nieuws/2018/12/31/herstelwerk-aan-het-kapotte-internet-a3127480)
+2018-12-31 [NRC - Herstelwerk aan het kapotte internet](https://www.nrc.nl/nieuws/2018/12/31/herstelwerk-aan-het-kapotte-internet-a3127480)   <small>nl</small>
 
 2018-11-29 [Tim Berners-Lee's Solid Project: Can It Save the Web?] (https://www.extremetech.com/extreme/281334-tim-berners-lees-solid-project-can-it-save-the-web)
 
-2018-10-29 [An introduction to SOLID, Tim Berners-Leeâ€™s new, re-decentralized Web](https://www.freecodecamp.org/news/an-introduction-to-solid-tim-berners-lees-new-re-decentralized-web-25d6b78c523b/)
+2018-10-29 [An introduction to SOLID, Tim Berners-Leeâ€™s new, re-decentralized Web](https://www.freecodecamp.org/news/an-introduction-to-solid-tim-berners-lees-new-re-decentralized-web-25d6b78c523b/)   <small>fr</small>
 
 2018-10-16 [Tim Berners-Lee Introduces "Solid" Decentralized Identity Platform](https://www.infoq.com/news/2018/10/solid-identity-platform/)
 
@@ -1176,7 +1178,7 @@ Unfuck digital ! â€” Why we should reboot the digital revolution.](https://
 
 2018-09-28 [One Small Step for the Webâ€¦](https://inrupt.com/blog/one-small-step-for-the-web)
 
-2018-09-23 [The only way to save the Internet is to claim it back from Big Data](https://mastersofmedia.hum.uva.nl/blog/2018/09/23/solid-and-the-decentralisation-of-the-web-the-only-way-to-save-the-internet-is-to-claim-it-back-from-big-data/)
+2018-09-23 [The only way to save the Internet is to claim it back from Big Data](https://mastersofmedia.hum.uva.nl/blog/2018/09/23/solid-and-the-decentralisation-of-the-web-the-only-way-to-save-the-internet-is-to-claim-it-back-from-big-data/)   <small>nl</small>
 
 2018-08-29 [Solid Could Change The Internet As You Know It ](https://qrius.com/solid-could-change-the-internet-as-you-know-it/)
 
