@@ -1,16 +1,19 @@
 ---
 layout: page
-title: Use Solid Apps
-permalink: /use-solid/
+title: Get a Pod
+permalink: /users/get-a-pod
+redirect_from:
+  - /use-solid
+  - /users
+
 ---
 
-# Using Solid apps
-To get started with Solid you will first need a Pod and a WebID, after which you can start [using Solid apps]({{site.baseUrl}}/use-solid/apps). 
-
-<img class="illustration" src="{{site.baseUrl}}/assets/img/use-solid/apps.svg" alt="[]"/>
-
 # Get a Pod and a WebID
-Pods are where you store your data. Your WebID lets you login to Solid apps and Pods as well as letting you connect to other people using Solid. 
+Pods are where you store your data. Your WebID lets you login to Solid apps and Pods as well as letting you connect to other people using Solid.
+
+Once you get a Pod and WebID, you can 
+[develop your first application](/developers/tutorials/getting-started), 
+and check out some applications [developed by the community](/apps).
 
 ## How to pick a Provider
 
@@ -34,6 +37,7 @@ You can pick a Provider in the following list. However, keep in mind that Solid 
 | Provider | Responsible for Domain Name and Terms | Responsible for Hosting | Location of Hosting |
 |-----------------------------------|:---------------------------------------------------:|:-------------------------------------------------:|:-------------------:|:--------------------:|
 | [inrupt.net](https://inrupt.net) | [Inrupt, Inc.](https://inrupt.com/terms-of-service) | [Amazon](https://aws.amazon.com) | USA |
+| [solidcommunity.net](https://solidcommunity.net/) | [Solid Project](https://github.com/solid/solidcommunity.net_operations) | [Digital Ocean](https://www.digitalocean.com) | UK |
 
 If you are a provider you can add your service to this list by emailing [info@solidproject.org](mailto:info@solidproject.org).
 
@@ -42,4 +46,3 @@ If you are a provider you can add your service to this list by emailing [info@so
 The way to get most control of your data is to **self-host**. Self-hosting means that your data is physically stored on a hard drive you hold at home, and managed by [a software](/for-developers/pod-server) you run on your own machine. This way, you don't have to entrust any third party with your data. Currently, this option still requires some technical background, and it may not be suitable for everyone yet. 
 
 We would like to make self-hosting a more user-friendly option in the future. The great thing about Solid is the flexibility it offers: you can choose to outsource the work for now and pick a provider, and **move to self-hosting later** on when the tools are ready for you. 
-
