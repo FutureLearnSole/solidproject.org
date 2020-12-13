@@ -8,8 +8,13 @@ layout: base
         {{ content }}
       </article>
     </div>
+    {% for pages in site.pages -%}{% if page.title == "press" %}
     <aside id="sidebar" class="column is-one-third is-hidden-mobile section">
       <div class="menu is-large make-sticky">
+	      {% else %}
+	      <aside id="sidebar" class="column is-one-third is-hidden-mobile section">
+		<div class="menu is-large">
+    {% endif %}{% endfor -%}
         {% include toc.html html=content class="menu-list" %}
       </div>
     </aside>
