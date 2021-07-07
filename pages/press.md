@@ -12,15 +12,6 @@ Are you looking to get a speaker or interview about Solid? Contact us on [press@
 
 {%
   include talk.html
-    date="2020-09-03"
-    title="Solid World September"
-    website="https://www.eventbrite.com/e/solid-world-tickets-115477011851"
-    speaker="Tim Berners-Lee, Ruben Verborgh, Oz Olivo, Max Leonard and Hannes Ricklefs (BBC R&D), Charlotte Sadd (NatWest Group), Jackson Morgan (O Team), Alexandre Boulier (Startin'blox)"
-    video="https://vimeo.com/454813146"
-%}
-
-{%
-  include talk.html
     date="2020-08-06"
     title="Solid World August"
     website="https://www.eventbrite.com/e/solid-world-tickets-111960609196"
@@ -1034,7 +1025,7 @@ Unfuck digital ! â€” Why we should reboot the digital revolution.](https://
 
 2019-01-29 [Techristic: Digital Trends 2019: Every Single Stat You Need To Know About The Internet](https://www.techristic.com/digital-trends-2019-every-single-stat-you-need-to-know-about-the-internet/)
 
-2019-01-26 [Maximus and Me: Wisdom Of The Week](http://maximusandme.blogspot.com/2019/01/wisdom-of-week_26.html)
+2019-01-26 [Maximus and Me: Wisdom Of The Week](https://web.archive.org/web/20200915072212/http://maximusandme.blogspot.com/2019/01/wisdom-of-week_26.html)
 
 2019-01-25 [My Mac: Essential Apple Podcast 120: The Bob is back in town](http://www.mymac.com/2019/01/essential-apple-podcast-120-the-bob-is-back-in-town/)
 
@@ -1064,23 +1055,25 @@ Unfuck digital ! â€” Why we should reboot the digital revolution.](https://
 
 2018-11-29 [Tim Berners-Lee's Solid Project: Can It Save the Web?] (https://www.extremetech.com/extreme/281334-tim-berners-lees-solid-project-can-it-save-the-web)
 
-2018-10-29 [An introduction to SOLID, Tim Berners-Leeâ€™s new, re-decentralized Web](https://www.freecodecamp.org/news/an-introduction-to-solid-tim-berners-lees-new-re-decentralized-web-25d6b78c523b/)
+2018-10-29 [An introduction to SOLID, Tim Berners-Leeâ€™s new, re-decentralized Web](https://web.archive.org/web/20200915055850/https://www.freecodecamp.org/news/an-introduction-to-solid-tim-berners-lees-new-re-decentralized-web-25d6b78c523b/)
 
 2018-10-16 [Tim Berners-Lee Introduces "Solid" Decentralized Identity Platform](https://www.infoq.com/news/2018/10/solid-identity-platform/)
 
-2018-10-06 [Tim Berners-Lee unveils next step for Solid, a decentralized Web platform with privacy built-in as standard](https://www.privateinternetaccess.com/blog/tim-berners-lee-unveils-solid-a-decentralized-web-platform-with-privacy-built-in-as-standard/)
+2018-10-06 [Tim Berners-Lee unveils next step for Solid, a decentralized Web platform with privacy built-in as standard](https://web.archive.org/web/20200915045929/https://www.privateinternetaccess.com/blog/tim-berners-lee-unveils-solid-a-decentralized-web-platform-with-privacy-built-in-as-standard/)
 
-2018-10-05 [How solid is Timâ€™s plan to redecentralize the web?](https://redecentralize.org/blog/2018/10/05/how-solid.html)
+2018-10-05 [How solid is Timâ€™s plan to redecentralize the web?](https://web.archive.org/web/20200915050053/https://redecentralize.org/blog/2018/10/05/how-solid.html)
 
 2018-09-29 [Exclusive: Tim Berners-Lee tells us his radical new plan to upend the World Wide Web](https://web.archive.org/web/20181001103951/https://www.fastcompany.com/90243936/exclusive-tim-berners-lee-tells-us-his-radical-new-plan-to-upend-the-world-wide-web)
 
-2018-09-28 [One Small Step for the Webâ€¦](https://inrupt.com/blog/one-small-step-for-the-web)
+2018-09-28 [One Small Step for the Webâ€¦](https://web.archive.org/web/20200915045610/https://inrupt.com/blog/one-small-step-for-the-web)
 
-2018-09-23 [The only way to save the Internet is to claim it back from Big Data](https://mastersofmedia.hum.uva.nl/blog/2018/09/23/solid-and-the-decentralisation-of-the-web-the-only-way-to-save-the-internet-is-to-claim-it-back-from-big-data/)
+2018-09-23 [The only way to save the Internet is to claim it back from Big Data](https://web.archive.org/web/20200915050421/https://mastersofmedia.hum.uva.nl/blog/2018/09/23/solid-and-the-decentralisation-of-the-web-the-only-way-to-save-the-internet-is-to-claim-it-back-from-big-data/)
 
 2018-08-29 [Solid Could Change The Internet As You Know It ](https://qrius.com/solid-could-change-the-internet-as-you-know-it/)
 
 2018-08-27 [Decentralising the web: OmiseGO on the importance of user experience for new platforms](https://web.archive.org/web/20180730050637/https://www.computing.co.uk/ctg/news/3036546/decentralising-the-web-omisego-on-the-importance-of-user-experience)
+
+2018-08-14 [Decentralising the web: The key takeaways](https://web.archive.org/web/20200915050439/https://www.computing.co.uk/news/3036546/decentralising-the-web-the-key-takeaways)
 
 2018-07-03 [About Solid](https://web.archive.org/web/20180703172221/https://github.com/solid/solid)
 
@@ -1090,7 +1083,7 @@ Unfuck digital ! â€” Why we should reboot the digital revolution.](https://
 
 ### 2016
 
-2016-08-10 [How the father of the World Wide Web plans to reclaim it from Facebook and Google](http://www.digitaltrends.com/web/ways-to-decentralize-the-web/)
+2016-08-10 [How the father of the World Wide Web plans to reclaim it from Facebook and Google](https://web.archive.org/web/20200915045250/https://www.digitaltrends.com/web/ways-to-decentralize-the-web/)
 
 ### 2015
 
@@ -1098,6 +1091,6 @@ Unfuck digital ! â€” Why we should reboot the digital revolution.](https://
 
 ### 2009
 
-2009-08-17 [W3C - Socially Aware Cloud Storage by Tim Berners-Lee](https://www.w3.org/DesignIssues/CloudStorage.html) 
+2009-08-17 [W3C - Socially Aware Cloud Storage by Tim Berners-Lee](https://web.archive.org/web/20200915044136/https://www.w3.org/DesignIssues/CloudStorage.html) 
 
-2009-08-16 [W3C - Read-Write Linked Data by Tim Berners-Lee](https://www.w3.org/DesignIssues/ReadWriteLinkedData.html)
+2009-08-16 [W3C - Read-Write Linked Data by Tim Berners-Lee](https://web.archive.org/web/20200915044113/http://web.archive.org/screenshot/https://www.w3.org/DesignIssues/ReadWriteLinkedData.html)
