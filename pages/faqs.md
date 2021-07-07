@@ -35,7 +35,7 @@ A Pod is where data is stored on the Web with Solid. ([see quote](http://www.you
 **A WebID is a unique identifier** used to identify a specific user. An example of what a WebID could look like is: https://fulano.pod.provider/profile/card#me. To share data with a third party, a user associates sharing preferences to the WebID of that third party. Don't worry though: [it's not just one more login to remember](#fewer_passwords). 
 <details>
 <summary class="has-text-primary">More details...</summary>
-A WebID is an <a href="https://tools.ietf.org/html/rfc3987">Internationalised Resource Identifier (IRI)</a> that can be dereferenced as a <a href="http://xmlns.com/foaf/spec/">FOAF</a> profile document serialized in <a href="https://www.w3.org/RDF/">RDF</a> <a href="https://dvcs.w3.org/hg/WebID/raw-file/tip/spec/identity-respec.html">(source)</a>. In Solid, WebIDs are used to identify Agents i.e. people and organisations as well as to manage their access rights though <a href="https://solid.github.io/specification/wac/">Web Access Control</a>. 
+A WebID is an <a href="https://tools.ietf.org/html/rfc3987">Internationalised Resource Identifier (IRI)</a> that can be dereferenced as a <a href="http://xmlns.com/foaf/spec/">FOAF</a> profile document serialized in <a href="https://www.w3.org/RDF/">RDF</a> <a href="https://dvcs.w3.org/hg/WebID/raw-file/tip/spec/identity-respec.html">(source)</a>. In Solid, WebIDs are used to identify Agents i.e. people and organisations as well as to manage their access rights though <a href="https://solid.github.io/web-access-control-spec/">Web Access Control</a>. 
 </details>
 
 ## How are Pods different from WebIDs?
@@ -66,7 +66,7 @@ Solid overturns assumptions:
 * When you start a Solid app, instead of the app storing the data itself, it stores it on your Pod. When you use the app, you choose which app to use, and you choose which Pod to use with which app. 
 <details>
 <summary class="has-text-primary">More details</summary>
-Solid is built on top of existing Web standards. The core Solid specification relies on <a href="https://www.w3.org/TR/ldp/">LDP</a> and <a href="https://solid.github.io/specification/wac/">WAC</a> (<a href="https://github.com/solid/web-access-control-spec">WAC draft</a>, both being based on <a href="https://tools.ietf.org/html/rfc2616">HTTP</a> and <a href="https://www.w3.org/RDF/">RDF</a> vocabularies. Solid also uses a subset of <a href="https://www.w3.org/TR/sparql11-overview/">SPARQL</a> UPDATE through HTTP PATCH queries. Identification in Solid is based on <a href="https://www.w3.org/2005/Incubator/webid/spec/tls/">WebID-TLS</a> and/or <a href="https://openid.net/connect/">OIDC</a>.
+Solid is built on top of existing Web standards. The core Solid specification relies on <a href="https://www.w3.org/TR/ldp/">LDP</a> and <a href="https://solid.github.io/web-access-control-spec/">WAC</a> (<a href="https://github.com/solid/web-access-control-spec">WAC draft</a>, both being based on <a href="https://tools.ietf.org/html/rfc2616">HTTP</a> and <a href="https://www.w3.org/RDF/">RDF</a> vocabularies. Solid also uses a subset of <a href="https://www.w3.org/TR/sparql11-overview/">SPARQL</a> UPDATE through HTTP PATCH queries. Identification in Solid is based on <a href="https://www.w3.org/2005/Incubator/webid/spec/tls/">WebID-TLS</a> and/or <a href="https://openid.net/connect/">OIDC</a>.
 </details>
 
 # Storage 
@@ -142,8 +142,8 @@ Technically, you may host your <a href="http://xmlns.com/foaf/spec/">FOAF</a> pr
 
 # The Bigger Picture  
 
-## Doesn't the [Data Transfer Project](https://datatransferproject.dev) fix the data concerns? 
-It’s a great start. The next step is to build a healthy array of options for users to make their data work for themselves.
+## Doesn't the Data Transfer Project fix the data concerns?
+The [Data Transfer Project](https://datatransferproject.dev) is a great start. The next step is to build a healthy array of options for users to make their data work for themselves.
 
 ## How to integrate iOS and Android apps into Solid? 
 
@@ -154,9 +154,9 @@ It is possible for developers to take an iOS or Android app and make it Solid co
 Currently there are no developer kits in development for Android or iOS. If you really want to have an app that can be installed on Android or iOS, you might consider writing it as a progressive web app or writing it as a hybrid app.
 </details>
 
-## Arguably the [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) or [Linked Data](https://en.wikipedia.org/wiki/Linked_data) never took off, so why is Solid working with it? 
+## Arguably the Semantic Web or Linked Data never took off, so why is Solid working with it?
 
-The Semantic Web and Linked Data principles and technologies have always meant to **make data more reusable**, and to **make data independent from applications**, which is why it is at the core of Solid.
+The [Semantic Web](https://en.wikipedia.org/wiki/Semantic_Web) and [Linked Data](https://en.wikipedia.org/wiki/Linked_data) principles and technologies have always meant to **make data more reusable**, and to **make data independent from applications**, which is why it is at the core of Solid.
 
 <details>
 <summary class="has-text-primary">More details</summary>

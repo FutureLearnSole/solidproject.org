@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-no-toc
 title: Team
 permalink: team
 ---
@@ -14,16 +14,12 @@ You can read more about the [process around how the Solid Team work together](ht
 **Solid Director**
 Sir Tim Berners-Lee is co-founder and Chief Technology Officer of Inrupt. Named one of Time Magazine’s ‘100 Most Important People of the 20th Century,’ Tim invented the web while at CERN in 1989. He is the Founder and Director of the World Wide Web Consortium (W3C), the international standards forum for technical development of the Web, and the Web Foundation whose mission is that the World Wide Web serves Humanity. He co-founded and is President of the Open Data Institute in London. Tim is a Professor at the Massachusetts Institute of Technology (MIT) in the Computer Science and AI Lab ("CSAIL”). In April 2017, Sir Tim was awarded the Turing Prize which is considered the "Nobel Prize of Computing”.
 
-## Mitzi László
-**Solid Manager**
-Mitzi László is Communications Manager at Inrupt. She graduated in neuroscience from Kings College London before working for a Brazilian epidemiology study funded by the Wellcome Trust specialising in decision making. Her frustration at not being able to access data for public health research is what led her to work on data ethics, security, and trust. She has worked as an independent advisor for the European Commission and is a regular public speaker at venues such as the Berkman Klein Centre and the Ada Lovelace Festival as well as featuring on BBC Tomorrow's World.
-
 # Editors
 Editors are responsible for maintaining and reviewing suggestions to the Solid specification.  
 
 ## Sarven Capadisli
 **Solid Editor**
-Sarven Capadisli is a technical architect at Inrupt. He contributes to the advancement of open Web platform specifications and the development of social decentralised applications and was part of the MIT Solid project. He is active as an information architect and scientist in linked research communication.
+[Sarven Capadisli](https://csarven.ca/#i) contributes to the advancement of technical specifications in the Solid ecosystem and aims to ensure open consensus within a common ethical framework. He is a technical architect at Inrupt and has been involved in the evolution of Solid alongside TimBL at MIT since 2015.
 
 ## Ruben Verborgh
 **Solid Editor**
@@ -62,10 +58,6 @@ Administrators are responsible for administration of tools, systems, and service
 ## Tim Berners-Lee
 **Administrator**
 Sir Tim Berners-Lee is co-founder and Chief Technology Officer of Inrupt.
-
-## Mitzi László
-**Administrator**
-Mitzi László is Communications Manager at Inrupt.
 
 ## Jackson Morgan
 **Administrator**
