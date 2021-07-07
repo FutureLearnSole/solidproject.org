@@ -10,9 +10,16 @@ If you are interested in joining the Solid team email info@solidproject.org with
 
 You can read more about the [process around how the Solid Team work together](https://github.com/solid/process) which is open for suggestions around how to improve by [submitting an issue](https://github.com/solid/process/issues) or sending an email to info@solidproject.org.
 
-## Sir Tim Berners-Lee
+# Sir Tim Berners-Lee
+##  Sir Tim Berners-Lee
 **Solid Director**
 Sir Tim Berners-Lee is co-founder and Chief Technology Officer of Inrupt. Named one of Time Magazine’s ‘100 Most Important People of the 20th Century,’ Tim invented the web while at CERN in 1989. He is the Founder and Director of the World Wide Web Consortium (W3C), the international standards forum for technical development of the Web, and the Web Foundation whose mission is that the World Wide Web serves Humanity. He co-founded and is President of the Open Data Institute in London. Tim is a Professor at the Massachusetts Institute of Technology (MIT) in the Computer Science and AI Lab ("CSAIL”). In April 2017, Sir Tim was awarded the Turing Prize which is considered the "Nobel Prize of Computing”.
+
+<div class="is-invisible">
+
+# Mitzi László
+
+</div>
 
 ## Mitzi László
 **Solid Manager**
